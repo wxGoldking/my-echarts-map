@@ -1,0 +1,17 @@
+# idea
+.idea
+
+# node_modules
+node_modules
+
+# dist
+/dist
+
+# config
+/config/*
+!/config/default.js
+
+# db log file
+query-log.db
+
+.DS_Store
